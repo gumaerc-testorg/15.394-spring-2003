@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 548b59fc-4da4-9c58-5555-d49a0b05fe43
 resourcetype: Document
 title: workingenvironments.pdf
 uid: 3444be9d-9752-c534-173a-9583f57e9f58

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 548b59fc-4da4-9c58-5555-d49a0b05fe43
 resourcetype: Document
 title: introductionanderikpetersonpartone.pdf
 uid: 4bc9d485-d2b9-5563-c9f6-cf8686256ab7

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 548b59fc-4da4-9c58-5555-d49a0b05fe43
 resourcetype: Document
 title: employmentmodels.pdf
 uid: 5997731c-97b8-dd28-717d-94a39d23a1d5

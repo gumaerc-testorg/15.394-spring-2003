@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Calendar
 parent_type: CourseSection
+parent_uid: a9e81c82-e9eb-0e45-eb5f-8a8a8e4cfae6
 resourcetype: Document
 title: summaryofclasssessionsandassignmentdu.pdf
 uid: 319b3b8b-5b28-a4ba-6430-247e9721f8fa

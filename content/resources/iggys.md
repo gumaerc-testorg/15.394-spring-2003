@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 548b59fc-4da4-9c58-5555-d49a0b05fe43
 resourcetype: Document
 title: iggys.pdf
 uid: 895c543e-8d50-a355-c645-3b8458fea21f

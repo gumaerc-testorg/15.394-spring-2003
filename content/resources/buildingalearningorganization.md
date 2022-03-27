@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 548b59fc-4da4-9c58-5555-d49a0b05fe43
 resourcetype: Document
 title: buildingalearningorganization.pdf
 uid: 5f3e06e3-6f06-7d31-00b5-78e7ffbc8ab1
