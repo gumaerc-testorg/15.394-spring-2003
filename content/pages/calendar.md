@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -295,4 +296,4 @@ To be distributed.
 
 ### Session 24: Final Lecture
 
-Summary of Class Sessions and Assignment Due Dates ([PDF]({{< baseurl >}}/resources/summaryofclasssessionsandassignmentdu))
+Summary of Class Sessions and Assignment Due Dates ({{% resource_link 319b3b8b-5b28-a4ba-6430-247e9721f8fa "PDF" %}})

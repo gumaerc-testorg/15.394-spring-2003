@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '[Case discussion: Data General]'
-file: /media/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/39de0c0b49997928855aee3ebae29af0_datageneral.pdf
+file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/39de0c0b49997928855aee3ebae29af0_datageneral.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: datageneral.pdf
 uid: 39de0c0b-4999-7928-855a-ee3ebae29af0
 ---
+[Case discussion: Data General]
+
