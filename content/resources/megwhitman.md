@@ -5,6 +5,7 @@ file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spr
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: megwhitman.pdf
 uid: bbad2452-6656-f56f-f0df-9a6c4a9052f2
 ---
 eBay Case Discussion [Meg Whitman]
-

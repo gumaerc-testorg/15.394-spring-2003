@@ -5,6 +5,7 @@ file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spr
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: shouldicehospitalcase.pdf
 uid: 9776ada9-1c6e-349f-3899-be058269774b
 ---
 [Shouldice Hospital Case]
-
