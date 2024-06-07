@@ -2,6 +2,7 @@
 content_type: resource
 description: Why Managers Derail [Keller]
 file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/de5ba2484749bdc361bb28dbfbd0d0c7_keller.pdf
+file_size: 265743
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

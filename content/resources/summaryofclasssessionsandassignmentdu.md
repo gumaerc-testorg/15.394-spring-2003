@@ -2,6 +2,7 @@
 content_type: resource
 description: Summary of Class Sessions and Assignment Due Dates
 file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/319b3b8b5b28a4ba6430247e9721f8fa_summaryofclasssessionsandassignmentdu.pdf
+file_size: 72161
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
