@@ -2,6 +2,7 @@
 content_type: resource
 description: Building a Learning Organization
 file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/5f3e06e36f067d3100b578e7ffbc8ab1_buildingalearningorganization.pdf
+file_size: 222559
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
