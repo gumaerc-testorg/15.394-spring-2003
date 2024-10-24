@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Apple Case Discussion
-file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/79bea0bd292012deec419681b79b9e04_apple.pdf
+file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/79bea0bd292012deec419681b79b9e04_apple.pdf
 file_size: 196790
 file_type: application/pdf
 learning_resource_types:
