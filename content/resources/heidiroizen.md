@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '[Case Discussion: Heidi Roizen]'
-file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/3a630420cfdd25216aab368a989a21f1_heidiroizen.pdf
+file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/3a630420cfdd25216aab368a989a21f1_heidiroizen.pdf
 file_size: 233835
 file_type: application/pdf
 learning_resource_types:

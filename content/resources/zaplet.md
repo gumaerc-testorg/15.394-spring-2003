@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Case Discussion: Zaplet'
-file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/0937c03c006ca6e9dea7560ff2f6dbd8_zaplet.pdf
+file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/0937c03c006ca6e9dea7560ff2f6dbd8_zaplet.pdf
 file_size: 333749
 file_type: application/pdf
 learning_resource_types:
