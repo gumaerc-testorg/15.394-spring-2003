@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Jerry Sanders
-file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/f333ecfe9bae76eb64a549104c802423_jerrysanders.pdf
+file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/f333ecfe9bae76eb64a549104c802423_jerrysanders.pdf
 file_size: 326075
 file_type: application/pdf
 learning_resource_types:

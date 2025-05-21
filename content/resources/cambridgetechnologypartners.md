@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '[Cambridge Technology Partners]'
-file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/2015a56a887c957b50f1cc879572bbc2_cambridgetechnologypartners.pdf
+file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/2015a56a887c957b50f1cc879572bbc2_cambridgetechnologypartners.pdf
 file_size: 240511
 file_type: application/pdf
 learning_resource_types:

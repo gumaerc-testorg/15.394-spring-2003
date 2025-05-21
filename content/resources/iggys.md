@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Iggy?s Bread of the World
-file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/895c543e8d50a355c6453b8458fea21f_iggys.pdf
+file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/895c543e8d50a355c6453b8458fea21f_iggys.pdf
 file_size: 346473
 file_type: application/pdf
 learning_resource_types:

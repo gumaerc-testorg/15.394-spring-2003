@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'Case discussion: IDEO [Working Environments]'
-file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/3444be9d9752c534173a9583f57e9f58_workingenvironments.pdf
+file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/3444be9d9752c534173a9583f57e9f58_workingenvironments.pdf
 file_size: 349873
 file_type: application/pdf
 learning_resource_types:
