@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: eBay Case Discussion [Meg Whitman]
-file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/bbad24526656f56ff0df9a6c4a9052f2_megwhitman.pdf
+file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/bbad24526656f56ff0df9a6c4a9052f2_megwhitman.pdf
 file_size: 179901
 file_type: application/pdf
 learning_resource_types:

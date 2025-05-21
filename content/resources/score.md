@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '[Score]'
-file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/4a50237f17d4811576af50f6bc5e7d30_score.pdf
+file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/4a50237f17d4811576af50f6bc5e7d30_score.pdf
 file_size: 152881
 file_type: application/pdf
 learning_resource_types:
