@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Jan Carlzon Case Discussion
-file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/b5ad6111a0f06c4a87cf047564a21fe9_jancarlzon.pdf
+file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/b5ad6111a0f06c4a87cf047564a21fe9_jancarlzon.pdf
 file_size: 256288
 file_type: application/pdf
 learning_resource_types:
