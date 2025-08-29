@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Vermeer
-file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/652c14b67c2cb89044194550c582cebe_vermeer.pdf
+file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/652c14b67c2cb89044194550c582cebe_vermeer.pdf
 file_size: 238600
 file_type: application/pdf
 learning_resource_types:

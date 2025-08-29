@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Sun Microsystems
-file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/44768575c60a2e6048f5bd12aa3149b4_sunmicrosystems.pdf
+file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/44768575c60a2e6048f5bd12aa3149b4_sunmicrosystems.pdf
 file_size: 216110
 file_type: application/pdf
 learning_resource_types:

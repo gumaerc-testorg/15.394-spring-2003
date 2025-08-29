@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: '[Course Overview and Erik Peterson Part Two]'
-file: /courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/545021045469db67152d29d94beff747_courseoverviewanderikpetersonparttwo.pdf
+file: /ol-ocw-studio-app/courses/15-394-designing-and-leading-the-entrepreneurial-organization-spring-2003/545021045469db67152d29d94beff747_courseoverviewanderikpetersonparttwo.pdf
 file_size: 404376
 file_type: application/pdf
 learning_resource_types:
